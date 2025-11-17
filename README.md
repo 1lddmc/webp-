@@ -8,3 +8,4 @@ webp阅读器
 java.io.FileNotFoundException: /
 main.apk-unzipaligned-unsigned: open
 failed: EROFS (Read-only file system)
+又跑了一次，一堆报错，放弃了，找了个有这个功能的软件：E站绿色版。如有需要请移步：https://github.com/xiaojieonly/Ehviewer_CN_SXJ
